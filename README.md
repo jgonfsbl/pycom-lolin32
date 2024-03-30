@@ -1,4 +1,4 @@
-# Ejemplos
+# Ejemplos config IoT
 
 En este respositorio se encuentran ejemplos básicos para programar diferentes módulos.
 
